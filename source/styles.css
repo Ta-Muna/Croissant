@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-color: rgb(209, 197, 158);
+}
+
+.photo-croissant {
+  display: block;
+  margin: 20px auto;
+  border-radius: 5px;
+}
